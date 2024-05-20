@@ -1,3 +1,7 @@
+//Felipe Carvalho de Alencar, RA:10409804 
+//Helen Beatriz Motta, RA:10403718 
+//Priscila Tomé dos Santos, RA: 10403649
+
 #include <stdlib.h>
 #include <stdio.h>
 
